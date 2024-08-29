@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716148289 source:c:\k›ﬁ›sel\ders\ver› yapilari\kmo\kitapmagazasiotomasyoni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
